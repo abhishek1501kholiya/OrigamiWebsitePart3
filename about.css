@@ -1,0 +1,18 @@
+.container{
+  
+ font-weight: bold;
+ font-family: "Montserrat",sans-serif;
+ 
+}
+.header:hover h1{
+  opacity: 0.33;
+  border-radius: 30%;
+  
+}
+.header{
+  padding-left: 600px ;
+  background-color: aqua;
+}
+.subtitle{
+  text-align: left; 
+}
